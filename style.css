@@ -633,7 +633,7 @@ text-align-last: center;
 .client_feedback {
   background-color: #F7F8FC;
   display: flex;
-  height:55vh;
+  height:65vh;
 }
 .client_feedback .left{
 display: flex;
@@ -667,10 +667,9 @@ gap: 15%;
 .client_feedback .right{
   display: flex;
   background-color: #e85a18;
-
    background-color: #f6f7fb;
-            justify-content: center;
-            align-items: center;
+ justify-content: center;
+align-items: center;
 
 }
 .client_feedback .right .cardlast {
