@@ -633,7 +633,7 @@ text-align-last: center;
 .client_feedback {
   background-color: #F7F8FC;
   display: flex;
-  height:65vh;
+  height:100vh;
 }
 .client_feedback .left{
 display: flex;
