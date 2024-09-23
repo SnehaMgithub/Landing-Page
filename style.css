@@ -15,14 +15,17 @@
 *::before{
     box-sizing: border-box;
 }
+
 body{
     margin: 0;
     font-family: "Poppins",sans-serif;
     background-color: var(--bg-color);
+    overflow-x: hidden;
 }
 .wrapper {
     max-width: 1134px;
     margin: 0 auto;
+
   }
   .menu{
     display: flex;
